@@ -198,3 +198,4 @@ D:\Projects\Code Class Platform Back-End\CodeClassPlatform.BackEnd.Tests\obj\Deb
 D:\Projects\Code Class Platform Back-End\CodeClassPlatform.BackEnd.Tests\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Projects\Code Class Platform Back-End\CodeClassPlatform.BackEnd.Tests\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Projects\Code Class Platform Back-End\CodeClassPlatform.BackEnd.Tests\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\Code Class Platform Back-End\CodeClassPlatform.BackEnd.Tests\obj\Debug\net10.0\CodeClassPlatform.BackEnd.Tests.sourcelink.json

@@ -139,20 +139,17 @@ app.UseRateLimiter();
 app.UseCors();
 app.UseHttpsRedirection();
 
-if (app.Environment.IsDevelopment())
+app.UseSwagger();
+app.UseSwaggerUI(options =>
 {
-    app.UseSwagger();
-    app.UseSwaggerUI(options =>
-    {
-        options.SwaggerEndpoint("/swagger/v1/swagger.json", "CodeClassPlatform API v1");
-        options.RoutePrefix = "swagger";
-        options.DefaultModelsExpandDepth(2);
-        options.DefaultModelExpandDepth(2);
-        options.DocExpansion(Swashbuckle.AspNetCore.SwaggerUI.DocExpansion.List);
-        options.ConfigObject.AdditionalItems["persistAuthorization"] = true;
-        options.ConfigObject.AdditionalItems["theme"] = "dark";
-    });
-}
+    options.SwaggerEndpoint("/swagger/v1/swagger.json", "CodeClassPlatform API v1");
+    options.RoutePrefix = "swagger";
+    options.DefaultModelsExpandDepth(2);
+    options.DefaultModelExpandDepth(2);
+    options.DocExpansion(Swashbuckle.AspNetCore.SwaggerUI.DocExpansion.List);
+    options.ConfigObject.AdditionalItems["persistAuthorization"] = true;
+    options.ConfigObject.AdditionalItems["theme"] = "dark";
+});
 
 app.UseAuthentication();
 app.UseAuthorization();

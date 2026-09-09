@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeClassPlatform.BackEnd.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4752b6a3463a7e5e43f4235a2bed3071c27f8d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeClassPlatform.BackEnd.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeClassPlatform.BackEnd.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -296,3 +296,5 @@ D:\Projects\Code Class Platform Back-End\CodeClassPlatform.BackEnd\obj\Debug\net
 D:\Projects\Code Class Platform Back-End\CodeClassPlatform.BackEnd\obj\Debug\net10.0\CodeClassPlatform.BackEnd.pdb
 D:\Projects\Code Class Platform Back-End\CodeClassPlatform.BackEnd\obj\Debug\net10.0\CodeClassPlatform.BackEnd.genruntimeconfig.cache
 D:\Projects\Code Class Platform Back-End\CodeClassPlatform.BackEnd\obj\Debug\net10.0\ref\CodeClassPlatform.BackEnd.dll
+D:\Projects\Code Class Platform Back-End\CodeClassPlatform.BackEnd\obj\Debug\net10.0\CodeClassPlatform.BackEnd.sourcelink.json
+D:\Projects\Code Class Platform Back-End\CodeClassPlatform.BackEnd\bin\Debug\net10.0\dotnet-tools.json
